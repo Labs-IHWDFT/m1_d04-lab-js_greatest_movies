@@ -67,7 +67,7 @@ function orderByYear(movies) {
 // Iteration 6: Alphabetic Order - Order by title and print the first 20 titles
 function orderAlphabetically(movies) {
  const moviesArr = JSON.parse(JSON.stringify(movies))
- sortedMoviesArr = moviesArr
+const sortedMoviesArr = moviesArr
     .sort((a, b) => {
       if (a.title > b.title) {
         return 1;
