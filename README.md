@@ -2,6 +2,8 @@
 
 # LAB | Greatest Movies of All Time
 
+[![Automated Testing](https://github.com/Labs-IHWDFT/m1_d04-lab-js_greatest_movies/actions/workflows/test.yml/badge.svg?branch=solution)](https://github.com/Labs-IHWDFT/m1_d04-lab-js_greatest_movies/actions/workflows/test.yml)
+
 ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_1561a196c2e3852533bad64d9b0d4e9f.gif)
 
 ## Introduction
